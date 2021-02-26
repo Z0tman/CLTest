@@ -1,1 +1,1 @@
-This is a push from a text file created and edited from nano in ubuntu.
+This is a push from a text file created and edited from nano in ubuntu
